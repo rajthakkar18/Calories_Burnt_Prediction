@@ -18,7 +18,7 @@ Matplotlib / Seaborn: Data visualization.
 To run the project locally, follow the steps below:
 1. Clone the repository:
    git clone https://github.com/rajthakkar18/Calories_Burnt_Prediction.git
-   cd Calories_Burnt_Prediction
+      cd Calories_Burnt_Prediction
 
 2. Install the necessary dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
